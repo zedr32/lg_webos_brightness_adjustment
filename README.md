@@ -4,6 +4,9 @@ Dynamic backlight control for LG OLED TVs running webOS firmware 43.21.60+.
 
 Adjusts the TV's backlight in real time based on what's on screen and (optionally) how bright the room is. A dark scene dims the backlight. A bright scene raises it. The transition creeps gradually so it's invisible while you're watching. If you have a room lux sensor connected to Home Assistant, the maximum backlight ceiling rises and falls with the ambient light in the room.
 
+<img width="1568" height="711" alt="image" src="https://github.com/user-attachments/assets/d19be849-da99-480d-af36-de0a14187cb1" />
+
+
 ---
 
 ## Why this exists
