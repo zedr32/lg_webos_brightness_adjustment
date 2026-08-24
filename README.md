@@ -1,0 +1,1 @@
+# lg_webos_brightness_adjustment
